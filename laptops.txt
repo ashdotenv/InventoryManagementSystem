@@ -1,0 +1,5 @@
+Dell XPS 13, Dell, $999.99, 10, Intel Core i7, Intel Iris Xe
+MacBook Pro, Apple, $1299.99, 5, Apple M1, Apple GPU
+HP Spectre x360, HP, $1099.99, 8, Intel Core i5, Intel Iris Xe
+Lenovo ThinkPad X1, Lenovo, $1199.99, 7, Intel Core i7, Intel UHD Graphics
+Asus ZenBook, Asus, $899.99, 6, Intel Core i5, Nvidia MX250
